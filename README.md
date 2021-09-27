@@ -23,5 +23,9 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+##App icon
+![ezgif com-video-to-gif-7](https://user-images.githubusercontent.com/75585027/134843086-e09e1dec-6a2e-420d-b173-e980dbd40449.gif)
 
+
+##Login, logout and view tweets
+![ezgif com-video-to-gif-6](https://user-images.githubusercontent.com/75585027/134843081-73c8dd8c-262e-45d0-ba82-b95bd7ee050b.gif)
