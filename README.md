@@ -29,3 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 ##Login, logout and view tweets
 ![ezgif com-video-to-gif-6](https://user-images.githubusercontent.com/75585027/134843081-73c8dd8c-262e-45d0-ba82-b95bd7ee050b.gif)
+
+##User Stays Logged In
+![ezgif com-video-to-gif-8](https://user-images.githubusercontent.com/75585027/135175897-d46b2382-7d00-4244-8618-0a74ddc98f73.gif)
+
